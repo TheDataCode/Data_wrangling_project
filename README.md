@@ -18,7 +18,9 @@ Find a detailed report on the wrangling phase from the 'wrangle_report.pynb' fil
 
 
 ### INSIGHTS
-Find a detailed report on insights from the 'analysis_report.pynb'  file 
+My analysis was focused on the types of Dog Stages: FLOOFER, PUPPER, PUPPO,DOGGO
+
+Find a detailed report on insights in the 'analysis_report.pynb'  file 
 
 #### NB: Find all files mentioned and other files of my analysis process in the 'wrangle_data_p2' folder above
 
