@@ -1,4 +1,4 @@
-## DOG RATING ANALYSIS
+## DOGs RATING ANALYSIS
 This project is an analysis  of dog ratings from WeRateDosg twitter archive with the aim to find patterns and trends between variables of interest. 
 
 
