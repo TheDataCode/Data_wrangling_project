@@ -1,5 +1,5 @@
 ## DOG RATING ANALYSIS
-This projects analyses dog ratings from weratedog twitter archive with the aim to find patterns and trends between variables of interest. 
+This project is an analysis  of dog ratings from WeRateDosg twitter archive with the aim to find patterns and trends between variables of interest. 
 
 
 ### BY: [TheDataCode](https://github.com/TheDataCode)
