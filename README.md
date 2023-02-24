@@ -20,7 +20,7 @@ Find documentation of the data wrangling process in the 'data_wrangling_report.i
 ### INSIGHTS
 My analysis was focused on the types of Dog Stages: FLOOFER, PUPPER, PUPPO,DOGGO
 
-Find a detailed report on insights in the 'analysis_report.pynb'  file 
+Find a detailed report on insights in the 'analysis_report.ipynb'  file 
 
 
 ### PROGRAMMING LANGUAGE, LIBRARIES AND PACKAGES USED
