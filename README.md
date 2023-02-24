@@ -14,7 +14,6 @@ Combined with two other datasets':twitter-archive-enhanced.csv' and 'image_predi
 ### DATA WRANGLING
 
 Each dataset was transformed and merged into one master dataframe: twitter-archive-master.csv' which was used for analysis phase                                                          
-Find a detailed report on the wrangling phase from the 'wrangle_report.pynb' file
 
 
 ### INSIGHTS
